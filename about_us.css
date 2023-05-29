@@ -1,0 +1,79 @@
+.team{
+    color: white;
+    font-family: Century Gothic;
+    margin: 0;
+    padding:0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 15%;
+    text-align: center;
+}
+.team h1 .a{color:blue;
+text-decoration: underline;
+}
+.team h1 .nep{
+    color: red;
+}
+marquee:hover{
+    background-color:skyblue;
+color: orangered;}
+marquee{
+    height:10%;
+    transition: 0.4s;
+}
+.saurav{position: absolute;
+        width: 100%;
+        top: 15%;
+        height: 25%;
+        color: aliceblue;
+}
+#saurav{
+    float: left;
+    position:relative;
+    left:5%;
+}
+#t1{
+    position: absolute;
+    left: 20%;
+    top:15%;
+}
+#prabesh{
+    float:inherit;
+    position: relative;
+    left: 5%;
+}
+#t2{
+    position: absolute;
+    left:70%;
+    right:5%;
+    top: 15%;
+}
+.saurav2{
+    position: absolute;
+    width: 100%;
+    top:50%;
+    height: 25%;
+    color: aliceblue;
+}
+#saurab{
+    float:left;
+    position: relative;
+    left: 5%;
+}
+#t3{
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+#sabin{
+    float: inherit;
+    position: relative;
+    left: 5%;
+}
+#t4{
+    position: absolute;
+    left: 70%;
+    right: 5%;
+    top: 15%;
+}
